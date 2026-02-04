@@ -1,4 +1,4 @@
-package com.example.voice_calc
+package com.logiq.voice_calc
 
 import io.flutter.embedding.android.FlutterActivity
 

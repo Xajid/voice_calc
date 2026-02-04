@@ -25,7 +25,7 @@ class CalculatorScreen extends ConsumerWidget {
       appBar: AppBar(
         backgroundColor: theme.appBarBackground,
         title: Text(
-          'Voice Calculator',
+          'Voice Calc',
           style: TextStyle(color: theme.appBarTextColor),
         ),
         iconTheme: IconThemeData(color: theme.appBarTextColor),

@@ -5,7 +5,7 @@ class AppConstants {
   AppConstants._();
 
   // App Info
-  static const String appName = 'Voice Calculator';
+  static const String appName = 'Voice Calc';
   static const String appVersion = '1.0.0';
 
   // Mathematical Constants
